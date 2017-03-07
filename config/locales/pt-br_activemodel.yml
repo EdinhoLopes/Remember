@@ -1,0 +1,16 @@
+"pt-BR":
+  activerecord:
+    models:
+      friend: Amigos
+      annotation: Anotações
+
+    attributes:
+      annotation:
+          id: "Código"
+          body: "Anotações"
+      friend:
+        id: "Código"
+        name: "Nome"
+        address: "Endereço"
+        email: "E-mail"
+        phone: "Telefone"
